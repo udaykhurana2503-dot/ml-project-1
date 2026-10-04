@@ -1,0 +1,8 @@
+_pycache_/
+*.pyc
+.venv/
+venv/
+env/
+hand_landmarker.task
+.vscode/
+.idea/
